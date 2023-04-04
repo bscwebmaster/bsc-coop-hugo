@@ -1,7 +1,7 @@
 ---
 title: Great coffee with incompetence
 subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+image: img/products-grid1.jpg
 blurb:
   heading: Why Kaldi?
   text: Why not? Do you really need a reason? Face it, you're a caffeine addict,
